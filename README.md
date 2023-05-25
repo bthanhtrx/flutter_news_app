@@ -3,8 +3,10 @@
 A simple news app which uses NewsData API to get a various type of headlines. 
 It also gives a practical example of basic usage for some common Flutter libraries, including: HTTP, Riverpod, Freezed.
 
-![App Screenshot](/asset/images/news_ss.png)
-
+<p float="left">
+  <img src="/asset/images/news_ss.png" width="200" />
+  <img src="/asset/images/news_ss_1.png"width="200" />
+</p>
 
 ## Getting Started
 
