@@ -1,6 +1,8 @@
-# flutter_news_app
+# Flutter News App
 
-A new Flutter project.
+A simple news app which uses NewsData API to get a various type of headlines. 
+It also gives a practical example of basic usage for some common Flutter libraries, including: HTTP, Riverpod, Freezed.
+
 
 ## Getting Started
 
