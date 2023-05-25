@@ -7,7 +7,7 @@ import 'package:http/http.dart' as http;
 final apiServiceProvider = Provider<ApiService>((ref) => ApiService());
 
 class ApiService {
-  static const API_KEY = 'pub_21201ff92cbd998049bf5f98aca6a45d202f6';
+  static const API_KEY = 'YOUR_API_KEY';
   static const BASE_URL = 'https://newsdata.io/api/1/news';
   static final BASE_QUERY = '&apikey=$API_KEY';
 
